@@ -1,0 +1,110 @@
+body {
+  background-color: #E4DFDA;
+}
+
+main {
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+div {
+  width: 250px;
+}
+
+p {
+  color: #222;
+  font-weight: bold;
+}
+
+.tall,
+.short-container,
+.short {
+  float: left;
+}
+
+.tall {
+  height: 500px;
+  font-family: 'Oswald', 'Helvetica', Arial, sans-serif;
+  font-size: 28px;
+}
+
+.tall span {
+  font-family: "Quattrocento", "Times New Roman", Times, serif;
+}
+
+.short {
+  height: 250px;
+  font-family: 'Quattrocento', 'Times New Roman', Times, serif;
+  font-size: 22px;
+}
+
+.short span {
+  font-family: 'Oswald', 'Helvetica', Arial, sans-serif;
+  font-size: 18px;
+}
+
+#block-1 {
+  background-color: #F16059;
+}
+
+#block-1 p {
+  margin: 36px 18px;
+}
+
+#block-2 {
+  background-color: #4357AD;
+}
+
+#block-2 p {
+  margin: 60px 16px;
+}
+
+#block-3 {
+  background-color: #D0FEF5;
+}
+
+#block-3 p {
+  margin: 60px 16px;
+}
+
+#block-4 {
+  background-color: #4357AD;
+}
+
+#block-4 p {
+  margin: 60px 16px;
+}
+
+#block-5 {
+  background-color: #509EA8;
+}
+
+#block-5 p {
+  margin: 75px 16px;
+}
+
+#block-6 {
+  background-color: #D0FEF5;
+}
+
+#block-6 p {
+  margin: 100px 16px;
+}
+
+#block-7 {
+  background-color: #509EA8;
+}
+
+#block-7 p {
+  margin: 100px 16px;
+}
+
+#block-8 {
+  background-color: #F16059;
+}
+
+#block-8 p {
+  margin: 30px 18px;
+}
